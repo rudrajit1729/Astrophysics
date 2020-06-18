@@ -1,6 +1,6 @@
 # Gravitational Lensing
 ## Notebook
-* [Measuring Dark Matter with Gravitational Lensing](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/Gravitational%20Lensing/gravitational_lensing.ipynb) - [GitHub](https://github.com/rudrajit1729/Astrophysics/blob/master/Gravitational%20Lensing/gravitational_lensing.ipynb)
+* [Measuring Dark Matter with Gravitational Lensing - Github](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/Gravitational%20Lensing/gravitational_lensing.ipynb)
 
 ## What Is Gravitational Lensing?
 ### Dark Matter
