@@ -15,7 +15,7 @@ For visualization and understanding of the topics feel free to check these out.
 ## Correlated Field of Galaxies
 * [Simulation of a Correlated Field of Galaxies - Github](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/Correlated%20Field%20of%20Galaxies/Simulation_of_a_Correlated_Field_of_Galaxies.ipynb)
 
-## IRAS 16562-3959(Various Analytics on Star Forming Region)
+## IRAS 16562-3959 (Various Analytics on Star Forming Region)
 * [IRAS 16562-3959 Surface Density Distribution - Github](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/IRAS%2016562-3959/IRAS_16562_3959_surface_density_distribution.ipynb)
 * [IRAS 16562-3959 Class II and Class III Median Color and Luminosity - Github](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/IRAS%2016562-3959/IRAS_16562_3959_Class_II_and_III_median_color_and_luminosity.ipynb)
 * [IRAS 16562-3959 Convex Hull - Github](https://nbviewer.jupyter.org/github/rudrajit1729/Astrophysics/blob/master/IRAS%2016562-3959/IRAS_16562_3959_Convex_Hull.ipynb)
